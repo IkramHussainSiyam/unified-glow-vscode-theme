@@ -1,0 +1,86 @@
+{
+  "name": "unified-glow-vscode-theme",
+  "displayName": "Unified Glow",
+  "description": "All of your favorite themes in one place.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "icon": "icon.png",
+  "publisher": "IkramHussainSiyam",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IkramHussainSiyam/unified-glow-vscode-theme"
+  },
+  "keywords": [
+    "unified theme",
+    "glowing theme",
+    "theme",
+    "github theme",
+    "dark theme",
+    "monokai theme",
+    "flate theme",
+    "tokyo theme",
+    "bearded theme",
+    "color-theme",
+    "__web_extension"
+  ],
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Next.Js | Unified Glow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nextjs.json"
+      },
+      {
+        "label": "GitHub | Unified Glow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gitHub-dimmed.json"
+      },
+      {
+        "label": "Bearded anthracite | Unified Glow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bearded-anthracite.json"
+      },
+      {
+        "label": "Monokai Pro | Unified Glow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokai-pro.json"
+      },
+      {
+        "label": "Flate | Unified Glow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/flate.json"
+      },
+      {
+        "label": "Tokyo night | Unified Glow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tokyo-night.json"
+      },
+      {
+        "label": "Ayu | Unified Glow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ayu.json"
+      },
+      {
+        "label": "One Monokai | Unified Glow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/one-monokai.json"
+      },
+      {
+        "label": "Nord | Unified Glow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nord.json"
+      },
+      {
+        "label": "One Dark | Unified Glow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/one-dark.json"
+      }
+    ]
+  }
+}
