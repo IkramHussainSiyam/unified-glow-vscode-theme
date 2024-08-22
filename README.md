@@ -2,7 +2,7 @@
 
 There are multiple themes you like? Often changing themes for a change of pace? But afraid of installing too many extensions? Then I got you. You don't need to install multiple themes, Unified glow has all popular themes you need.
 
-To make your vscode appeareance even more cooler follow my [recommendation](#recommendations).
+To make your vscode appeareance even more cooler follow my [recommendation](#recommendation).
 
 ## Install
 

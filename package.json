@@ -2,14 +2,26 @@
   "name": "unified-glow-vscode-theme",
   "displayName": "Unified Glow",
   "description": "All of your favorite themes in one place.",
-  "version": "1.0.1",
-  "license": "MIT",
-  "icon": "icon.png",
   "publisher": "IkramHussainSiyam",
+  "license": "MIT",
+  "author": {
+    "name": "Ikram Hussain Siyam",
+    "url": "https://github.com/IkramHussainSiyam",
+    "email": "ikramhussaindev404@gmail.com"
+  },
+  "version": "1.0.2",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/IkramHussainSiyam/unified-glow-vscode-theme"
   },
+  "bugs": {
+    "url": "https://github.com/IkramHussainSiyam/unified-glow-vscode-theme/issues/new",
+    "email": "ikramhussaindev404@gmail.com"
+  },
+  "homepage": "https://github.com/IkramHussainSiyam/unified-glow-vscode-theme",
   "keywords": [
     "unified theme",
     "glowing theme",
@@ -23,9 +35,7 @@
     "color-theme",
     "__web_extension"
   ],
-  "engines": {
-    "vscode": "^1.92.0"
-  },
+  "icon": "icon.png",
   "categories": [
     "Themes"
   ],

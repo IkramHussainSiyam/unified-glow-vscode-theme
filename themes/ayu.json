@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Ayu Bordered",
+  "name": "Ayu",
   "colors": {
     "focusBorder": "#ffcc66b3",
     "foreground": "#707a8c",
