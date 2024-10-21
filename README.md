@@ -1,3 +1,7 @@
+<!-- TODO: Add these features listed below
+  1. Remove `Flate`, `Nord` & `One dark`
+  2. Add `Material Theme Darker High Contrast`
+ -->
 # Unified Glow VS Code themes
 
 There are multiple themes you like? Often changing themes for a change of pace? But afraid of installing too many extensions? Then I got you. You don't need to install multiple themes, Unified glow has all popular themes you need.

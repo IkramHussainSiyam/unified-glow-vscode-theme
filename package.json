@@ -47,6 +47,11 @@
         "path": "./themes/nextjs.json"
       },
       {
+        "label": "Material Dark | Unified Glow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/material-dark.json"
+      },
+      {
         "label": "GitHub | Unified Glow",
         "uiTheme": "vs-dark",
         "path": "./themes/gitHub-dimmed.json"
@@ -62,11 +67,6 @@
         "path": "./themes/monokai-pro.json"
       },
       {
-        "label": "Flate | Unified Glow",
-        "uiTheme": "vs-dark",
-        "path": "./themes/flate.json"
-      },
-      {
         "label": "Tokyo night | Unified Glow",
         "uiTheme": "vs-dark",
         "path": "./themes/tokyo-night.json"
@@ -80,16 +80,6 @@
         "label": "One Monokai | Unified Glow",
         "uiTheme": "vs-dark",
         "path": "./themes/one-monokai.json"
-      },
-      {
-        "label": "Nord | Unified Glow",
-        "uiTheme": "vs-dark",
-        "path": "./themes/nord.json"
-      },
-      {
-        "label": "One Dark | Unified Glow",
-        "uiTheme": "vs-dark",
-        "path": "./themes/one-dark.json"
       }
     ]
   }
