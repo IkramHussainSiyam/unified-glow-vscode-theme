@@ -9,7 +9,7 @@
     "url": "https://github.com/IkramHussainSiyam",
     "email": "ikramhussaindev404@gmail.com"
   },
-  "version": "1.2.1",
+  "version": "1.3.1",
   "engines": {
     "vscode": "^1.92.0"
   },
@@ -42,42 +42,57 @@
   "contributes": {
     "themes": [
       {
-        "label": "Next.Js | Unified Glow",
+        "label": "Next.Js - Unified Glow",
         "uiTheme": "vs-dark",
         "path": "./themes/nextjs.json"
       },
       {
-        "label": "Material Dark | Unified Glow",
+        "label": "Min Theme - Unified Glow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/min-theme.json"
+      },
+      {
+        "label": "Nord - Unified Glow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nord.json"
+      },
+      {
+        "label": "Bearded Void - Unified Glow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bearded-void.json"
+      },
+      {
+        "label": "Material Dark - Unified Glow",
         "uiTheme": "vs-dark",
         "path": "./themes/material-dark.json"
       },
       {
-        "label": "GitHub | Unified Glow",
+        "label": "GitHub - Unified Glow",
         "uiTheme": "vs-dark",
         "path": "./themes/gitHub-dimmed.json"
       },
       {
-        "label": "Bearded anthracite | Unified Glow",
+        "label": "Bearded Anthracite - Unified Glow",
         "uiTheme": "vs-dark",
         "path": "./themes/bearded-anthracite.json"
       },
       {
-        "label": "Monokai Pro | Unified Glow",
+        "label": "Monokai Pro - Unified Glow",
         "uiTheme": "vs-dark",
         "path": "./themes/monokai-pro.json"
       },
       {
-        "label": "Tokyo night | Unified Glow",
+        "label": "Tokyo night - Unified Glow",
         "uiTheme": "vs-dark",
         "path": "./themes/tokyo-night.json"
       },
       {
-        "label": "Ayu | Unified Glow",
+        "label": "Ayu - Unified Glow",
         "uiTheme": "vs-dark",
         "path": "./themes/ayu.json"
       },
       {
-        "label": "One Monokai | Unified Glow",
+        "label": "One Monokai - Unified Glow",
         "uiTheme": "vs-dark",
         "path": "./themes/one-monokai.json"
       }
