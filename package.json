@@ -9,7 +9,7 @@
     "url": "https://github.com/IkramHussainSiyam",
     "email": "ikramhussaindev404@gmail.com"
   },
-  "version": "1.3.1",
+  "version": "1.4.0",
   "engines": {
     "vscode": "^1.92.0"
   },
@@ -29,11 +29,9 @@
     "github theme",
     "dark theme",
     "monokai theme",
-    "flate theme",
     "tokyo theme",
     "bearded theme",
-    "color-theme",
-    "__web_extension"
+    "color-theme"
   ],
   "icon": "icon.png",
   "categories": [
@@ -42,24 +40,44 @@
   "contributes": {
     "themes": [
       {
-        "label": "Next.Js - Unified Glow",
+        "label": "Sequoia retro - Unified Glow",
         "uiTheme": "vs-dark",
-        "path": "./themes/nextjs.json"
+        "path": "./themes/sequoia-retro.json"
       },
       {
-        "label": "Min Theme - Unified Glow",
+        "label": "Tokyo night - Unified Glow",
         "uiTheme": "vs-dark",
-        "path": "./themes/min-theme.json"
+        "path": "./themes/tokyo-night.json"
       },
       {
-        "label": "Nord - Unified Glow",
+        "label": "Default Dark Modern - Unified Glow",
         "uiTheme": "vs-dark",
-        "path": "./themes/nord.json"
+        "path": "./themes/default-dark/default-dark-modern.json"
+      },
+      {
+        "label": "Bearded Anthracite - Unified Glow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bearded-anthracite.json"
       },
       {
         "label": "Bearded Void - Unified Glow",
         "uiTheme": "vs-dark",
         "path": "./themes/bearded-void.json"
+      },
+      {
+        "label": "Ayu - Unified Glow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ayu.json"
+      },
+      {
+        "label": "Next.Js - Unified Glow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nextjs.json"
+      },
+      {
+        "label": "Moonlight default - Unified Glow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/moonlight-default.json"
       },
       {
         "label": "Material Dark - Unified Glow",
@@ -72,24 +90,19 @@
         "path": "./themes/gitHub-dimmed.json"
       },
       {
-        "label": "Bearded Anthracite - Unified Glow",
+        "label": "Min Theme - Unified Glow",
         "uiTheme": "vs-dark",
-        "path": "./themes/bearded-anthracite.json"
+        "path": "./themes/min-theme.json"
+      },
+      {
+        "label": "Nord - Unified Glow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nord.json"
       },
       {
         "label": "Monokai Pro - Unified Glow",
         "uiTheme": "vs-dark",
         "path": "./themes/monokai-pro.json"
-      },
-      {
-        "label": "Tokyo night - Unified Glow",
-        "uiTheme": "vs-dark",
-        "path": "./themes/tokyo-night.json"
-      },
-      {
-        "label": "Ayu - Unified Glow",
-        "uiTheme": "vs-dark",
-        "path": "./themes/ayu.json"
       },
       {
         "label": "One Monokai - Unified Glow",
