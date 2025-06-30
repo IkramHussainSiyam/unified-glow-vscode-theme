@@ -1,5 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
+  "name": "Bearded Void - Unified Glow",
   "colors": {
     "activityBar.activeBackground": "#7a63ed26",
     "activityBar.activeBorder": "#7A63ED",
@@ -308,8 +309,6 @@
     "sideBarSectionHeader.background": "#120f1b",
     "sideBarSectionHeader.border": "#0a080e",
     "sideBarSectionHeader.foreground": "#c7bfdb",
-    "sideBarStickyScroll.background": "#0e0b14",
-    "sideBarStickyScroll.shadow": "#00000066",
     "sideBarTitle.foreground": "#4f4273",
     "statusBar.background": "#171322",
     "statusBar.border": "#0a080e",
@@ -399,7 +398,6 @@
     "welcomePage.tileHoverBackground": "#aa9fc820",
     "widget.shadow": "#00000033"
   },
-  "name": "BeardedTheme Void",
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "class.declaration": {
@@ -464,18 +462,6 @@
       "scope": ["entity.name.type"],
       "settings": {
         "foreground": "#2C729E"
-      }
-    },
-    {
-      "scope": [
-        "comment",
-        "punctuation.definition.comment",
-        "string.quoted.docstring.multi",
-        "comment.block.documentation source"
-      ],
-      "settings": {
-        "fontStyle": "italic",
-        "foreground": "#c4b8e359"
       }
     },
     {
@@ -1071,7 +1057,6 @@
     {
       "scope": ["markup.italic", "punctuation.definition.italic"],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#3D8DE2"
       }
     },
@@ -1097,7 +1082,6 @@
         "meta.embedded.block.frontmatter string.unquoted.plain.out"
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#4f4273"
       }
     },

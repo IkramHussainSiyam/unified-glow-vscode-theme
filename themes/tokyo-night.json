@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Tokyo night",
+  "name": "Tokyo night - Unified Glow",
   "semanticClass": "tokyo-night",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -80,17 +80,17 @@
     "dropdown.background": "#14141b",
     "dropdown.listBackground": "#14141b",
 
+    "activityBarTop.background": "#16161e",
+    "activityBarTop.foreground": "#acb0d0",
+    "activityBarTop.inactiveForeground": "#3b3e52",
+
     "activityBar.background": "#16161e",
-    "activityBar.foreground": "#707491",
-    //"activityBar.activeBorder": "#3b3e52",
-    //"activityBar.activeBackground": "#101014",
+    "activityBar.foreground": "#acb0d0",
     "activityBar.inactiveForeground": "#3b3e52",
+
     "activityBar.border": "#16161e",
     "activityBarBadge.background": "#3d59a1",
     "activityBarBadge.foreground": "#fff",
-
-    "activityBarTop.foreground": "#707491",
-    "activityBarTop.inactiveForeground": "#3b3e52",
 
     "tree.indentGuidesStroke": "#2b2b3b",
     "sideBar.foreground": "#707491",
@@ -105,13 +105,12 @@
     "list.dropBackground": "#1e202e",
     "list.deemphasizedForeground": "#707491",
     "list.activeSelectionBackground": "#202330",
-
     "list.activeSelectionForeground": "#a9b1d6",
     "list.inactiveSelectionBackground": "#1c1d29",
     "list.inactiveSelectionForeground": "#a9b1d6",
     "list.focusBackground": "#1c1d29",
     "list.focusForeground": "#a9b1d6",
-    "list.hoverBackground": "#13131a",
+    "list.hoverBackground": "#202330",
     "list.hoverForeground": "#a9b1d6",
 
     "list.highlightForeground": "#668ac4",
@@ -121,6 +120,7 @@
 
     "listFilterWidget.background": "#101014",
     "listFilterWidget.outline": "#3d59a1",
+    "list.focusOutline": "#3d59a1",
     "listFilterWidget.noMatchesOutline": "#a6333f",
 
     "pickerGroup.foreground": "#a9b1d6",
@@ -176,8 +176,8 @@
     "editorHoverWidget.background": "#16161e",
     "editorHoverWidget.border": "#101014",
 
-    "editorBracketMatch.background": "#16161e",
-    "editorBracketMatch.border": "#42465d", //"#363b54",
+    "editorBracketMatch.background": "#32374e",
+    "editorBracketMatch.border": "#0000", //"#363b54",
 
     "editorOverviewRuler.border": "#101014",
     "editorOverviewRuler.errorForeground": "#db4b4b",
@@ -266,10 +266,10 @@
 
     "tab.activeBackground": "#1a1b26",
     "tab.inactiveBackground": "#16161e",
-    "tab.activeForeground": "#a9b1d6",
+    "tab.activeForeground": "#bbc4ec",
     "tab.hoverForeground": "#a9b1d6",
     "tab.activeBorderTop": "#3d59a1",
-    "tab.inactiveForeground": "#707491",
+    "tab.inactiveForeground": "#949bbc",
     "tab.border": "#101014",
     "tab.unfocusedActiveForeground": "#a9b1d6",
     "tab.unfocusedInactiveForeground": "#707491",
@@ -422,27 +422,6 @@
     "menu.border": "#101014"
   },
   "tokenColors": [
-    {
-      "name": "Italics - Comments, Storage, Keyword Flow, Vue attributes, Decorators",
-      "scope": [
-        "comment",
-        "meta.var.expr storage.type",
-        "keyword.control.flow",
-        "keyword.control.return",
-        "meta.directive.vue punctuation.separator.key-value.html",
-        "meta.directive.vue entity.other.attribute-name.html",
-        "tag.decorator.js entity.name.tag.js",
-        "tag.decorator.js punctuation.definition.tag.js",
-        "storage.modifier",
-        "string.quoted.docstring.multi",
-        "string.quoted.docstring.multi.python punctuation.definition.string.begin",
-        "string.quoted.docstring.multi.python punctuation.definition.string.end",
-        "string.quoted.docstring.multi.python constant.character.escape"
-      ],
-      "settings": {
-        "fontStyle": "italic"
-      }
-    },
     {
       "name": "Fix YAML block scalar, Python Logical",
       "scope": [

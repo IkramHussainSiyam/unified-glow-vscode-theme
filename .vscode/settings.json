@@ -1,0 +1,9 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.vscodeignore": true,
+    "**/.gitattributes": true,
+    "**/icon.png": true,
+    "**/LICENSE": true,
+  }
+}

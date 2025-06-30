@@ -1,39 +1,26 @@
 # Unified Glow VS Code themes
 
-There are multiple themes you like? Frequently switching between themes for a change of pace? But don't want to install too many extensions? Then I got your back. You don't need to install multiple themes, Unified glow has all popular themes you need.
+There are multiple themes & icons you like? Frequently switching between themes & icons for a change of pace? But don't want to install too many extensions & every time? Then I got your back. You don't need to install multiple themes every time just for a change of pace, **Unified glow** has all popular **themes & icons** you need in one place.
 
-To make your vscode appeareance even more cooler follow my [recommendation](#recommendation).
+To make your VSCode appearance even more cooler follow my [recommendation](#recommendation).
 
 ## Install
 
 1. Go to [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=IkramHussainSiyam.unified-glow-vscode-theme).
 2. Click on the "Install" button.
 3. Then [select your favorite theme](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme):
-   - `Sequoia retro - Unified Glow`
-   - `Tokyo night - Unified Glow`
-   - `Default Dark Modern - Unified Glow`
-   - `Bearded Anthracite - Unified Glow`
-   - `Bearded Void - Unified Glow`
-   - `Ayu - Unified Glow`
-   - `Next.Js - Unified Glow`
-   - `Moonlight default - Unified Glow`
-   - `Material Dark - Unified Glow`
-   - `GitHub - Unified Glow`
-   - `Min Theme - Unified Glow`
-   - `Nord - Unified Glow`
-   - `Monokai Pro - Unified Glow`
-   - `One Monokai - Unified Glow`
+4. That's enjoy 🎉🥳
 
 ## Override this theme
 
-To override this (or any other) theme, you need to edit `them-name.json` file in your `.vscode/extensions` folder. You can follow [This guide](https://code.visualstudio.com/api/references/theme-color) about theme customization. This is handy for small tweaks to the theme without having to fork and maintain your own theme.
+To override this (or any other) theme, you need to edit `theme-name.json` file in your `.vscode/extensions` folder. You can follow [This guide](https://code.visualstudio.com/api/references/theme-color) to learn more about theme customization. This is handy for small tweaks to the theme without having to fork and maintain your own.
 
-> **Note:** Vscode theme folder location:
+> **Note:** VSCode theme folder location:
 > `user-location/.vscode/extensions/extension-publisher.extension-name-extension-version/themes/theme-name.json`
 
 ## Recommendation
 
-Lately I've been using a cool font combined with the theme, and it's look stanning, and gives you kinda hackery vibe.
+Lately I've been using a cool font combined with the theme, and it's look stunning, and gives you kinda `hackery vibe`.
 First you need to install [Kode Mono](https://fonts.google.com/specimen/Kode+Mono) font. This font will enable the hackery vibe paired with `Sequoia retro` or `Tokyo Night` theme.
 
 #### Go to `settings.json` and apply the following:
@@ -48,7 +35,7 @@ First you need to install [Kode Mono](https://fonts.google.com/specimen/Kode+Mon
 
 #### 💡 Pro Tip:
 
-By default vscode only changes editor's font, if you want to change the font of your entire editor (e.g. sidebar font, explorer font, titlebar font, etc.) you need to install an extension called [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items/?itemName=be5invis.vscode-custom-css).
+By default VSCode only changes editor's font, if you want to change the font of your entire editor (e.g. sidebar font, explorer font, title bar font, etc.) you need to install an extension called [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items/?itemName=be5invis.vscode-custom-css).
 
 - First install the extension.
 - Create a file called `custom-vscode-styles.css` in your desired location (any where).
@@ -70,7 +57,7 @@ By default vscode only changes editor's font, if you want to change the font of 
   }
   ```
 
-- Boom 🎉, There you have it, you unlocked vscode's hacker mode.
+- Boom 🎉, That's it, It's done, enjoy VSCode's hacker mode.
 
 ## Final Words
 

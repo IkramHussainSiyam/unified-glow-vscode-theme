@@ -9,7 +9,7 @@
     "url": "https://github.com/IkramHussainSiyam",
     "email": "ikramhussaindev404@gmail.com"
   },
-  "version": "1.4.0",
+  "version": "2.0.0",
   "engines": {
     "vscode": "^1.92.0"
   },
@@ -45,14 +45,14 @@
         "path": "./themes/sequoia-retro.json"
       },
       {
-        "label": "Tokyo night - Unified Glow",
-        "uiTheme": "vs-dark",
-        "path": "./themes/tokyo-night.json"
-      },
-      {
         "label": "Default Dark Modern - Unified Glow",
         "uiTheme": "vs-dark",
-        "path": "./themes/default-dark/default-dark-modern.json"
+        "path": "./themes/default-dark/default-dark-mordern.json"
+      },
+      {
+        "label": "Ayu - Unified Glow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ayu.json"
       },
       {
         "label": "Bearded Anthracite - Unified Glow",
@@ -65,19 +65,14 @@
         "path": "./themes/bearded-void.json"
       },
       {
-        "label": "Ayu - Unified Glow",
+        "label": "Catppuccin Mocha - Unified Glow",
         "uiTheme": "vs-dark",
-        "path": "./themes/ayu.json"
+        "path": "./themes/catppuccin-mocha.json"
       },
       {
-        "label": "Next.Js - Unified Glow",
+        "label": "GitHub Dimmed - Unified Glow",
         "uiTheme": "vs-dark",
-        "path": "./themes/nextjs.json"
-      },
-      {
-        "label": "Moonlight default - Unified Glow",
-        "uiTheme": "vs-dark",
-        "path": "./themes/moonlight-default.json"
+        "path": "./themes/gitHub-dimmed.json"
       },
       {
         "label": "Material Dark - Unified Glow",
@@ -85,19 +80,9 @@
         "path": "./themes/material-dark.json"
       },
       {
-        "label": "GitHub - Unified Glow",
-        "uiTheme": "vs-dark",
-        "path": "./themes/gitHub-dimmed.json"
-      },
-      {
         "label": "Min Theme - Unified Glow",
         "uiTheme": "vs-dark",
         "path": "./themes/min-theme.json"
-      },
-      {
-        "label": "Nord - Unified Glow",
-        "uiTheme": "vs-dark",
-        "path": "./themes/nord.json"
       },
       {
         "label": "Monokai Pro - Unified Glow",
@@ -105,9 +90,41 @@
         "path": "./themes/monokai-pro.json"
       },
       {
+        "label": "Next.js - Unified Glow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nextjs.json"
+      },
+      {
         "label": "One Monokai - Unified Glow",
         "uiTheme": "vs-dark",
         "path": "./themes/one-monokai.json"
+      },
+      {
+        "label": "Tokyo Night - Unified Glow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tokyo-night.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "flow-dark-unified-glow",
+        "label": "Flow Dark - Unified Glow",
+        "path": "./icon-themes/dark.jsonc"
+      },
+      {
+        "id": "material-icons-unified-glow",
+        "label": "Material Icons - Unified Glow",
+        "path": "./icon-themes/material-icons.jsonc"
+      },
+      {
+        "id": "vscode-icons-unified-glow",
+        "label": "VSCode Icons - Unified Glow",
+        "path": "./icon-themes/vscode-icons.jsonc"
+      },
+      {
+        "id": "catppuccin-perfect-icons-unified-glow",
+        "label": "Catppuccin Perfect Icons - Unified Glow",
+        "path": "./icon-themes/catppuccin-perfect-icons.jsonc"
       }
     ]
   }
